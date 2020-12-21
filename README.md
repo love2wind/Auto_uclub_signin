@@ -1,5 +1,5 @@
 # Auto_uclub_signin
-Ucloud Uclub每日自动签到
+Ucloud Uclub每日自动签到 20201221
 
 如何使用：
 Fork本项目，Secrets添加环境变量`USERNAME`和`PASSWORD`
